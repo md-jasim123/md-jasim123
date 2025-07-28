@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
 
-- 💼 [LinkedIn](linkedin.com/in/md-jasim-ansari-613a46257
-)
+- 💼 [LinkedIn](https://linkedin.com/in/md-jasim-ansari-613a46257)
 - 📫 Email: ansarijasim171@gmail.com
